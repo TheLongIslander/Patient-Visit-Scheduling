@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "date-holidays": "^3.23.8",
+    "luxon": "^3.4.4",
+    "moment-timezone": "^0.5.45",
+    "node-ical": "^0.17.2",
+    "uuid": "^9.0.1"
+  }
+}
